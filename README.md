@@ -1,10 +1,140 @@
-<h1 align="center">Hi 👋, I'm TAYYAB KHAN</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm <strong>Tayyab Khan</strong></h1>
+<h3 align="center">Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/25000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="25000" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 **About Me**
+🔹 Full-Stack Web Developer specializing in **React.js, Node.js, Express.js, MySQL & MongoDB**  
+🔹 Experienced in building scalable apps on **Vercel & Render**  
+🔹 Skilled in **REST APIs, WebSockets, JWT/OAuth, Redux Toolkit**  
+🔹 Passionate about **cybersecurity, clean architecture, real-time systems & modern UI/UX**  
+🔹 Comfortable with **Linux (Ubuntu/Kali)** and developer toolchains  
+
+📞 **Phone:** 0316-0098399  
+📧 **Email:** kha9.tayyab@gmail.com  
+🌍 **Location:** Peshawar, Pakistan  
+
+---
+
+## 🎓 **Education**
+**BS Software Engineering — IMSciences Peshawar (2021–2025)**  
+CGPA: **3.04**
+
+**FSc Pre-Engineering — Edwards College Peshawar (2018–2020)**  
+Grade: **A**
+
+**Matric (Biology) — Muslim Children Academy Srikh Shabqadar (2016–2018)**  
+Grade: **A**
+
+---
+
+## 💼 **Experience**
+
+### **Frontend Developer — Last Wave Technology (2025 – Present)**
+- Developed responsive, modern UI with **HTML, CSS, Bootstrap, Tailwind, Blade**  
+- Integrated APIs & built dynamic user-facing components  
+- Improved performance, scalability & code quality  
+- Collaborated with backend/dev teams to deliver smooth product experiences  
+- Ensured accessibility & mobile-first design principles  
+
+---
+
+## 🧩 **Highlighted Projects**
+
+### 🔥 **Personal Blog Website (MERN + Real-time)**
+- Real-time blogging using **WebSockets**  
+- JWT login, Google Auth, Email Verification  
+- Admin dashboard for users, roles, posts, comments  
+- Firebase storage for images  
+- Redux Toolkit for global state handling  
+- Deployed on **Render + Vercel**
+
+**Tech Stack:** React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase, WebSockets, JWT, Redux Toolkit
+
+---
+
+### 🏡 **Artic Estate — Real Estate Web App (Final Year Project)**
+- Buy, sell, rent properties with integrated home services  
+- JWT Auth + PayPal Payments  
+- Advanced property search & filters  
+- Sequelize ORM + MySQL backend  
+- Firebase uploads + real-time notifications  
+- Production deployment: **Vercel + Render**
+
+**Tech Stack:** React.js, Tailwind, Node.js, Express.js, MySQL, Sequelize, Firebase, PayPal SDK, JWT, Redux Toolkit
+
+---
+
+## 🛠️ **Skills & Tools**
+
+### **Programming Languages**
+`HTML` · `CSS3` · `JavaScript` · `Python`
+
+### **Frontend**
+`React.js` · `Next.js` · `Vue.js` · `Tailwind CSS` · `Bootstrap`
+
+### **Backend**
+`Node.js` · `Express.js` · `REST APIs` · `WebSockets`
+
+### **Databases**
+`MySQL` · `MongoDB` · `Sequelize ORM`
+
+### **Tools**
+`Git` · `GitHub` · `VS Code` · `Postman` · `Insomnia`
+
+### **Cloud / Deployment**
+`Vercel` · `Render`
+
+### **Operating Systems**
+`Linux (Ubuntu, Kali)` · `Windows`
+
+---
+
+## 🧠 **Soft Skills**
+✔ Problem Solving  
+✔ Analytical Thinking  
+✔ Team Collaboration  
+✔ Fast Learner  
+✔ Research-Oriented  
+
+---
+
+## 🎓 **Certifications**
+- HTML, CSS, JavaScript — Johns Hopkins (Coursera, 2025)  
+- Web-Based Business App Development (Laravel) — IM|DigiSol (2023)  
+- Microsoft Cybersecurity Analyst — Coursera (2025)  
+- IBM Cybersecurity Analyst — Coursera (2025)  
+- Google Cybersecurity Certificate — Coursera (2023)  
+
+---
+
+## 🌐 **Connect With Me**
+<p align="left">
+<a href="mailto:kha9.tayyab@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+## 🧰 **Tech Stack Icons**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,firebase,vercel,render,linux,python,js,html,css,git,github" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=taib-kh9&show_icons=true&theme=radical" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=taib-kh9&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">🔥 Always improving. Always building. Always learning.</h3>
+<h2 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h2>
