@@ -1,24 +1,35 @@
-<div align="center" style="
-  background-image: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c');
-  background-size: cover;
-  background-position: center;
-  padding: 60px 20px;
-  border-radius: 12px;
-">
+<div align="center">
+  <div style="
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/025/259/171/large/guangjing-zhang-4.jpg?1585200473');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+  ">
+    <div style="
+      background: rgba(0, 0, 0, 0.6);
+      padding: 60px 25px;
+      border-radius: 16px;
+    ">
 
-  <h1 style="color: #00e1ff; font-weight: bold;">
-    Hi 👋, I'm <strong>Tayyab Khan</strong>
-  </h1>
+      <h1 style="color: #00e1ff; font-weight: bold; font-size: 40px;">
+        Hi 👋, I'm <strong>Tayyab Khan</strong>
+      </h1>
 
-  <h3 style="color: #ffffff;">
-    Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast
-  </h3>
+      <h3 style="color: #ffffff; font-size: 22px;">
+        Full Stack Web Developer • Software Engineer • Cybersecurity Enthusiast
+      </h3>
 
-  <br/>
+      <br/>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
-  />
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
+      />
+
+    </div>
+  </div>
+
 </div>
 
 
