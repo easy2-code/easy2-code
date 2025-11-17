@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm <strong>Tayyab Khan</strong></h1>
 <h3 align="center">Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast</h3>
 
+<!-- Background Section -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated Developer GIF" width="300"/>
+  <img src="https://i.ibb.co/4R8SQP3/hacking-dark-wallpaper.jpg" 
+       alt="Dark Hacking Background" 
+       width="100%" 
+       style="border-radius: 10px;" />
 </p>
 
+<!-- Overlay Text -->
+<h1 align="center">Hi 👋, I'm <strong>Tayyab Khan</strong></h1>
+<h3 align="center">Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast</h3>
+
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" />
 </p>
+
 
 ---
 
