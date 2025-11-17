@@ -1,41 +1,44 @@
 <!-- TOP BANNER (GitHub-Compatible) -->
-<div align="center">
+<div align="center" style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
 
   <!-- Banner Image -->
   <img 
-    src="https://github.com/easy2-code/easy2-code/blob/easy2code/guangjing-zhang-4.jpg" 
+    src="https://raw.githubusercontent.com/easy2-code/easy2-code/easy2code/guangjing-zhang-4.jpg" 
     alt="Banner"
     style="width: 100%; border-radius: 20px; max-height: 420px; object-fit: cover;"
   />
 
   <!-- Overlay Text Box -->
   <div style="
-    margin-top: -200px;
-    background: rgba(0,0,0,0.75);
-    padding: 40px 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,0.7);
+    padding: 40px 30px;
     border-radius: 16px;
     width: 85%;
+    max-width: 900px;
+    text-align: center;
     border: 1px solid rgba(0, 225, 255, 0.4);
   ">
-
-  <h1 style="color: #00e1ff; font-size: 42px; font-weight: bold; margin-bottom: 10px;">
-    👋 Hi, I'm <span style="color: #fff;">Tayyab Khan</span>
-  </h1>
-
-  <h3 style="color: #fff; font-size: 22px; margin-bottom: 20px; font-weight: 300;">
-    Full Stack Web Developer • Software Engineer • Cybersecurity Enthusiast
-  </h3>
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
-    style="margin-top: 10px;"
-  />
+    <h1 style="color: #00e1ff; font-size: 42px; font-weight: bold; margin-bottom: 10px;">
+      👋 Hi, I'm <span style="color: #fff;">Tayyab Khan</span>
+    </h1>
+    <h3 style="color: #fff; font-size: 22px; margin-bottom: 20px; font-weight: 300;">
+      Full Stack Web Developer • Software Engineer • Cybersecurity Enthusiast
+    </h3>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
+      style="margin-top: 10px;"
+    />
 
   </div>
 
 </div>
 
 <br/><br/>
+
 
 
 ## 🚀 About Me
