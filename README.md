@@ -1,43 +1,42 @@
+<!-- TOP BANNER (GitHub-Compatible) -->
 <div align="center">
+
+  <!-- Banner Image -->
+  <img 
+    src="https://github.com/easy2-code/easy2-code/blob/easy2code/guangjing-zhang-4.jpg" 
+    alt="Banner"
+    style="width: 100%; border-radius: 20px; max-height: 420px; object-fit: cover;"
+  />
+
+  <!-- Overlay Text Box -->
   <div style="
-    background-image: url('https://cdnb.artstation.com/p/assets/images/images/025/259/171/large/guangjing-zhang-4.jpg?1585200473');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    padding: 100px 20px;
-    border-radius: 20px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
-    position: relative;
-    overflow: hidden;
+    margin-top: -200px;
+    background: rgba(0,0,0,0.75);
+    padding: 40px 25px;
+    border-radius: 16px;
+    width: 85%;
+    border: 1px solid rgba(0, 225, 255, 0.4);
   ">
-    <div style="
-      background: rgba(0, 0, 0, 0.75);
-      padding: 80px 30px;
-      border-radius: 16px;
-      backdrop-filter: blur(5px);
-      border: 1px solid rgba(0, 225, 255, 0.3);
-    ">
 
-      <h1 style="color: #00e1ff; font-weight: bold; font-size: 48px; margin-bottom: 20px; text-shadow: 0 0 20px rgba(0, 225, 255, 0.5);">
-        👋 Hi, I'm <strong style="color: #ffffff;">Tayyab Khan</strong>
-      </h1>
+  <h1 style="color: #00e1ff; font-size: 42px; font-weight: bold; margin-bottom: 10px;">
+    👋 Hi, I'm <span style="color: #fff;">Tayyab Khan</span>
+  </h1>
 
-      <h3 style="color: #ffffff; font-size: 24px; margin-bottom: 30px; font-weight: 300;">
-        Full Stack Web Developer • Software Engineer • Cybersecurity Enthusiast
-      </h3>
+  <h3 style="color: #fff; font-size: 22px; margin-bottom: 20px; font-weight: 300;">
+    Full Stack Web Developer • Software Engineer • Cybersecurity Enthusiast
+  </h3>
 
-      <div style="height: 4px; width: 100px; background: linear-gradient(90deg, #00e1ff, #0077ff); margin: 30px auto; border-radius: 2px;"></div>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
+    style="margin-top: 10px;"
+  />
 
-      <img 
-        src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!"
-        style="margin: 20px 0;"
-      />
-
-    </div>
   </div>
+
 </div>
 
-<br />
+<br/><br/>
+
 
 ## 🚀 About Me
 
