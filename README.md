@@ -55,7 +55,8 @@ Property marketplace with integrated home services.
 
 ## 🎓 Education
 
-- **BS Software Engineering** — IMSciences (2021–2025)  
+- **BS Software Engineering** — IMSciences (2021–2025)
+- **Front-End Web Developmen** — Institute of Emerging Careers  
 - **FSc Pre-Engineering** — Edwards College  
 - **Matric** — Muslim Children Academy  
 
