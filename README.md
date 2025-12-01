@@ -56,7 +56,7 @@ Property marketplace with integrated home services.
 ## 🎓 Education
 
 - **BS Software Engineering** — IMSciences (2021–2025)
-- **Front-End Web Developmen** — Institute of Emerging Careers  
+- **Front-End Web Development** — Institute of Emerging Careers  
 - **FSc Pre-Engineering** — Edwards College  
 - **Matric** — Muslim Children Academy  
 
@@ -74,8 +74,12 @@ Property marketplace with integrated home services.
 
 ## 🔗 Connect
 
-[GitHub](https://github.com/taib-kh9)  
-[Gmail](mailto:kha9.tayyab@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/tayyabkhan3)  
+[Youtube](https://www.youtube.com/@easy2code)  
+[Blog](https://tayyabkhan-chi.vercel.app/)  
+[Resume](https://docs.google.com/document/d/1v8Kp-rlOxs7dcMFuVjFS1SbzwNK55x892wCrzK0tzuI/edit?usp=sharing
+)
+[Email](mailto:kha9.tayyab@gmail.com)
 
 ---
 
