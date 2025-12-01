@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300e1ff&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Software+Engineer;Cybersecurity+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-# 👋 Hi, I'm **Tayyab Khan**
+# <img src="https://raw.githubusercontent.com/taib-kh9/assets/main/shake-hand.gif" width="40"/> Hi, I'm **Tayyab Khan**
+
 
 **Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast**
 
