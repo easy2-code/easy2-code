@@ -1,6 +1,11 @@
 <!-- Hero Image -->
 <img src="https://raw.githubusercontent.com/easy2-code/easy2-code/easy2code/guangjing-zhang-4.jpg" width="100%" style="border-radius: 20px; margin-bottom: 20px;" />
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300e1ff&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Software+Engineer;Cybersecurity+Enthusiast;Always+Learning+New+Things" />
+</p>
+
 # 👋 Hi, I'm **Tayyab Khan**
 
 **Full Stack Web Developer | Software Engineer | Cybersecurity Enthusiast**
